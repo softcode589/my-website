@@ -1,2 +1,2 @@
-# y-website
+# my-website
 developing soon :)
