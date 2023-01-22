@@ -1,2 +1,2 @@
-# my-website
-developing soon :)
+# My Site
+Using GitHub Pages to publish.
